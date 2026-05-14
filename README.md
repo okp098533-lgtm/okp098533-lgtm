@@ -1,4 +1,4 @@
-## Hi there 👋
+## franzi
 
 <!--
 **okp098533-lgtm/okp098533-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
